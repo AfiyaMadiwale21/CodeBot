@@ -5,7 +5,7 @@ const LanguageSelect = ({ language, setLanguage }) => {
     return (
         <div>
             <label className='text-black'>Select Langauge:</label><br />
-            <select className="select select-neutral text-md w-full bg-white" value={language} onChange={(e) => setLanguage(e.target.value)}>
+            <select className="select select-neutral text-md w-full bg-white text-black" value={language} onChange={(e) => setLanguage(e.target.value)}>
                 <option disabled={true}>Choose a language</option>
                 <option value="javascript">JavaScript</option>
                 <option value="python">Python</option>
