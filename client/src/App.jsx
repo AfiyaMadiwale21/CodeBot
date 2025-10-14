@@ -33,7 +33,7 @@ const App = () => {
   };
   return (
     <div className='min-h-screen w-full bg-gradient-to-b from-purple-200 via-blue-100 to-white p-2'>
-      <div className='flex flex-col gap-14 md:16 justify-center items-center'>
+      <div className='flex flex-col gap-12  md:gap-16 lg:gap-16 justify-center items-center'>
         <div className="w-full min-h-[60px] sm:min-h-20 bg-black rounded-full mx-auto p-2 sm:p-4">
           <div className="text-xl sm:text-3xl font-extrabold text-white ml-3 sm:ml-5 tracking-wide mt-2 text-left">
             <span className="text-blue-300">Code</span>Bot
