@@ -1,7 +1,5 @@
-# 🚀 CodeBot  
-AI-Powered Code Explanation and debugging Tool
-
-CodeBot is a web application that helps learners understand code instantly.  
+# 🚀 CodeBot
+CodeBot is a web application that helps learners understand code instantly, a code explanation and debugging tool.  
 Just paste your code, select a language, and let **CodeBot explain it** in simple, human-readable terms.
 
 ---
